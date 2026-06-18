@@ -22,3 +22,4 @@ O projeto é de uma conta bancária, um caixa eletrônico que faz calculos do sa
 ```bash
 php -S localhost:8000
 ```
+<p>Em seguida, abra o endereço mandado no terminal para o seu navegador de preferência. Seja o chrome, firefox, edge, opera etc</p>
