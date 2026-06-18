@@ -14,3 +14,11 @@ O projeto é de uma conta bancária, um caixa eletrônico que faz calculos do sa
         <li style="list-style-type: '⭐';"><img src="https://skillicons.dev/icons?i=js"></li>
     </ul>
 </ul>
+
+## Como executar?   
+<!--Para os programadores que vão ver o código-->
+<p>Para execução do código caso você clone esse repositório para sua pasta basta ter o xampp (ou qualquer programa que rode PHP) no seu sistema caso você já tenha o PHP dentro do seu PC, apenas abra o terminal no local de arquivo do seu computador e digite</p>
+
+```bash
+php -S localhost:8000
+```
